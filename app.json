@@ -2,7 +2,7 @@
 {
   "name": "Group Master",
   "description": "A Telegram group management bot!",
-  "logo": "https://telegra.ph/file/2da5690d733800517ac06.jpg",
+  "logo": "https://telegra.ph/file/bec69757a682665cbacf3.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/Naviya2/GroupMaster3",
+  "repository": "https://github.com/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -22,16 +22,16 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1069002447"
+      "value": "1721680827"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "naviya2"
+      "value": "Gaming_Lasith"
     },
   
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": ""
+      "value": "https://<appname>.herokuapp.com/"
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
@@ -39,15 +39,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1069002447"
+      "value": "1721680827"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1069002447"
+      "value": "1721680827"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1069002447"
+      "value": "1721680827"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
