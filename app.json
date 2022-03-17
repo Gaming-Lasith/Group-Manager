@@ -1,6 +1,6 @@
 
 {
-  "name": "Group Master",
+  "name": "Ａｌｅｘｉａ",
   "description": "A Telegram group management bot!",
   "logo": "https://telegra.ph/file/bec69757a682665cbacf3.jpg",
   "keywords": [
@@ -8,7 +8,7 @@
     "best",
     "group",
     "manager",
-    "3"
+    "Alexia"
   ],
   "repository": "https://github.com/",
   "env": {
